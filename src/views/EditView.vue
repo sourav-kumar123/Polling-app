@@ -218,8 +218,6 @@
 				text: "",
 				text1: "",
 				text2: "",
-				isempty: false,
-				ifOptionSelected: "",
 				isOpenn: false,
 				selectedUser: "",
 				titleupdate: "",
